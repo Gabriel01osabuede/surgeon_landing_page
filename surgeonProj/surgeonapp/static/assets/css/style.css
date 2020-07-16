@@ -1,0 +1,10 @@
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+h1 h2 h3 h4 p {
+  font-family: 'Quicksand', sans-serif;
+}
